@@ -1,0 +1,5 @@
+Candidat [cod=1, nume=Pop Marcel, medie=8.5, optiuni= (1,1);(1,2);(2,1);
+Candidat [cod=5, nume=Muntean Loredana, medie=9.45, optiuni= (4,1);(5,1);
+Candidat [cod=2, nume=Popescu Maria, medie=9.0, optiuni= (1,1);(2,1);
+Candidat [cod=3, nume=Popa Adriana, medie=9.9, optiuni= (1,2);
+Candidat [cod=4, nume=Comsa Maria, medie=9.3, optiuni= (4,1);
